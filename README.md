@@ -38,3 +38,7 @@ Unfortunately, there's a problem, and this might be easy to pronounce (although 
 2 - Some people just get lazy when putting the "TONE MARKS" because it takes quite a while for them to process the tones and add the "TONE MARKS".
 
 
+# Please note
+Notebook 1 - Data Mining 
+Notebook 2 - Text Processing
+Notebook 3 - Training and Evaluation
