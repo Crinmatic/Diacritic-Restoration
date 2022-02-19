@@ -1,7 +1,7 @@
 
-> **Diacritic-Restoration**
+#> **Diacritic-Restoration**
 <p><strong>A project on diacritic restoration of languages...</strong></p>
-– The Problem: 
+##– The Problem: 
 Yoruba or more specifically "Èdè Yorùbá" is a major spoken language, indigenous to the Yoruba tribe in Nigeria, spoken by more than 45 million people globally. 
 
 The significance of solving this problem is evidenced by this analysis below 👇🏽
@@ -38,7 +38,7 @@ Unfortunately, there's a problem, and this might be easy to pronounce (although 
 2 - Some people just get lazy when putting the "TONE MARKS" because it takes quite a while for them to process the tones and add the "TONE MARKS".
 
 
-# Please note
+#### Please note
 Notebook 1 - Data Mining 
 Notebook 2 - Text Processing
 Notebook 3 - Training and Evaluation
