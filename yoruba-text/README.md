@@ -1,4 +1,5 @@
 # Yorùbá text
+- [Data Source](https://github.com/Niger-Volta-LTI/yoruba-text)
 
 This repository contains fully diacritized Yorùbá text, converted to Unicode Normalization Form Composition ([NFC](http://www.macchiato.com/unicode/nfc-faq)) format, where diacritized characters are _composed_ into a single character with the following code:
 
