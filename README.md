@@ -1,11 +1,15 @@
 ## **Diacritic-Restoration**  
 <p><strong>A project on diacritic restoration of languages...</strong></p>  
   
-#### *Social Media post*  
-- [Alao David](https://github.com/invest41) - [post](https://www.linkedin.com/posts/activity-6904179616496635904-cTmV?utm_source=linkedin_share&utm_medium=member_desktop_web)  
-- [Alagbe Seun](https://github.com/Crinmatic) - [post](https://www.linkedin.com/posts/activity-6904179616496635904-cTmV?utm_source=linkedin_share&utm_medium=member_desktop_web)  
-#### *Article*  
-- [Alagbe Seun](https://github.com/Crinmatic) - [post](https://medium.com/@oluseunalagbee/using-ai-to-restore-tone-marks-on-my-indigenous-languages-yor%C3%B9b%C3%A1-texts-603c2a13097f)  
+#### *Cotributors*  
+- [Alagbe Seun](https://github.com/Crinmatic)
+- [Alao David](https://github.com/invest41)
+
+  
+|Contributor | Social Media post | Article |
+|:--|:--|:--|
+|[Alao David](https://github.com/invest41) | [LinkedIn](https://www.linkedin.com/posts/activity-6904179616496635904-cTmV?utm_source=linkedin_share&utm_medium=member_desktop_web)|  |
+|[Alagbe Seun](https://github.com/Crinmatic) | [LinkedIn](https://www.linkedin.com/posts/activity-6904179616496635904-cTmV?utm_source=linkedin_share&utm_medium=member_desktop_web) | [Medium](https://medium.com/@oluseunalagbee/using-ai-to-restore-tone-marks-on-my-indigenous-languages-yor%C3%B9b%C3%A1-texts-603c2a13097f)|
 <br/>  
   
 ### The Problem:  
